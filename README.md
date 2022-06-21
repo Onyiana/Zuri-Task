@@ -1,0 +1,1 @@
+Readme on CONSOLE.LOG CALCULATOR
